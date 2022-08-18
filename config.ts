@@ -1,14 +1,14 @@
 export default {
-  title: "yun yu yuan", // 网站标题
-  nickName: "云与原", // 昵称
-  githubName: "yunyuyuan", // github账户名
+  title: "雪山阅光", // 网站标题
+  nickName: "羊驼没有知识", // 昵称
+  githubName: "Alpaca343", // github账户名
   githubRepo: "nuxt3-blog", // 勿修改
   githubBranch: "master", // 勿修改
   domain: "https://blog.halberd.cn", // rss域名
-  SEO_description: "云与原的博客，书写值得书写的东西",
-  SEO_keywords: "yunyuyuan,yunyuyuan's blog,云与原,云与原的博客",
+  SEO_description: "这只羊驼想看雪山",
+  SEO_keywords: "羊驼没有知识，外卖盒，想看雪山的羊驼",
 
-  themeColor: "#2aa0bb", // 主题色
+  themeColor: "#93b5cf", // 主题色
   CommentRepoId: "R_kgDOGRGGfg", // https://giscus.app/zh-CN
   CommentDiscussionCategoryId: "DIC_kwDOGRGGfs4CQ5Jp", // https://giscus.app/zh-CN
   Comment: {
